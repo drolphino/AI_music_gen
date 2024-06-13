@@ -1,0 +1,13 @@
+torch
+diffusers
+gradio
+pydub
+Pillow
+matplotlib
+numpy
+scipy
+accelerate
+transformers
+torchaudio
+ipython
+tqdm
